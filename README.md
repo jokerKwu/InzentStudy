@@ -21,7 +21,7 @@ tomcat 설치(ver 8.5) <br>
 4. 서블릿 클래스의 이름은 TodayServlet으로 하고, 해당 서블릿의 URL경로는 http://localhost:8080/aboutme/today 로 하는 서블릿 클래스를 생성합니다.
 5. 기획서의 내용에 맞게 화면에 현재시간과 메인화면 링크가 나오도록 페이지를 작성합니다.
 
-### Main Process
+### Application Main Logic
 1. html 간에 이동은 <a> 태그를 사용해서 html 이동
 2. 몇시에요 버튼을 클릭시 form 태그를 통해서 jsp 페이지 이동 method가 post이므로 doPost 메소드 구현
   
