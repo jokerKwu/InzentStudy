@@ -1,0 +1,31 @@
+@charset "EUC-KR";
+
+#header{
+	height:100px;
+
+}
+
+#header ul{
+	float:right;
+}
+#header ul li {
+	display:inline;
+	border-left:1px solid #999;
+	font:bold 12px Dotum;
+	padding:0 10px;
+}
+
+hr{
+	background:#faa;
+}
+
+
+#section ul li{
+	display:inline;
+	border-left:1px solid #999;
+	font:bold 12px Dotum;
+	padding:0 10px;
+}
+.content{
+	margin-left: 10px;
+}
