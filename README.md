@@ -8,9 +8,9 @@ Run on Server the index.jsp file
 
 ### Development environment
 
-JDK 설치(ver 1.8)
-이클립스 설치
-tomcat 설치(ver 8.5)
+JDK 설치(ver 1.8) <br>
+이클립스 설치 <br>
+tomcat 설치(ver 8.5) <br>
 
 
 ### Development order
